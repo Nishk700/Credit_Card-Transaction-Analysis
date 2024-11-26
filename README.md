@@ -48,7 +48,15 @@ Revenue by Transaction Type:
 
 Swipe transactions are the most common ($35M), followed by Chip ($17M) and Online ($3M).
 This indicates customer preferences for physical transactions over digital ones.
+
+
+
+
+
 Dashboard 2: Credit Card Customer Report
+
+
+![Screenshot](Customers_DB.png)
 Key Metrics
 Total Customers:
 Reflects the total number of active credit card users (10.1K), showing the overall size of the customer base.
