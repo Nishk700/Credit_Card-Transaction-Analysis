@@ -5,6 +5,11 @@ Project Overview
 This project presents a comprehensive analysis of credit card transactions and customer data using Power BI. It includes insights into revenue trends, spending patterns, customer demographics, and satisfaction scores. The goal is to enable data-driven decision-making for optimizing credit card offerings and customer strategies.
 
 
+![Transaction Trends] Credit_card_report.pdf
+
+
+
+
 Dashboard 1: Credit Card Transaction Report
 
 Key Metrics
