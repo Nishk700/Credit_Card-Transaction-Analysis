@@ -94,13 +94,10 @@ Getting Started
 
 Prerequisites
 Install Power BI Desktop.
-Clone the repository using:
-bash
-Copy code - git clone https://github.com/your-username/credit-card-analysis.git
 
 Files Included
-Credit_Card_Transaction_Report.pbix: Power BI file for transaction analysis.
-Credit_Card_Customer_Report.pbix: Power BI file for customer analysis.
+
+Power BI file for transaction analysis and customer analysis
 Credit_card_report.pdf: PDF summary of key metrics and dashboards.
 
 
