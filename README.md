@@ -4,6 +4,12 @@
 
 This project presents a comprehensive analysis of credit card transactions and customer data using Power BI. It includes insights into revenue trends, spending patterns, customer demographics, and satisfaction scores. The goal is to enable data-driven decision-making for optimizing credit card offerings and customer strategies.
 
+## Usage
+
+Open the .pbix files in Power BI Desktop.
+Explore interactive visualizations for in-depth insights.
+Customize and extend the analysis using Power BI's capabilities.
+
 
 ## About Dataset
 
@@ -35,24 +41,28 @@ Payment method : Payment used by customer
 ### Key Metrics
 
 #### Revenue:
-Represents the total earnings from credit card transactions across various expenditure categories. The total revenue for the period is $55.3M, highlighting the financial impact of customer transactions.
+
+Represents the total earnings from credit card transactions across various categories. It is calculated by the sum of Total Transactions, Interests Earned and Annual fees of a Customer. The total revenue for the period is $55.3M, highlighting the financial impact of customer transactions.
 
 ![Image 1](CC%20SS/SS1.png)
 
 
 #### Total Transaction Amount:
+
 This is the aggregate sum of all transaction values ($44.5M), reflecting the total spending activity by customers using credit cards.
 
 ![Image 1](CC%20SS/SS2.png)
 
 
 #### Interests Earned:
+
 Refers to the income generated from interest charges on outstanding balances ($7.8M). This indicates how much revenue comes from customers carrying balances on their credit cards.
 
 ![Image 1](CC%20SS/SS3.png)
 
 
 #### Transaction Volume:
+
 The total number of individual transactions processed during the period (656K). This helps evaluate the overall activity level of the card user base.
 
 ![Image 1](CC%20SS/SS4.png)
@@ -120,7 +130,10 @@ Blue cardholders have the highest total revenue with more transactions and Inter
 ### Dashboard 2: Credit Card Customer Report
 
 
+
 ![Screenshot](Customers_DB.png)
+
+
 
 ### Key Metrics
 
@@ -242,18 +255,14 @@ Getting Started
 Prerequisites
 Install Power BI Desktop.
 
-Files Included
+#### Files Included
 
 Power BI file for transaction analysis and customer analysis
 Credit_card_report.pdf: PDF summary of key metrics and dashboards.
 
 
-Usage
-Open the .pbix files in Power BI Desktop.
-Explore interactive visualizations for in-depth insights.
-Customize and extend the analysis using Power BI's capabilities.
 
-Insights & Recommendations
+## Insights & Recommendations
 
 ## Key Findings
 Blue cardholders are the largest revenue contributors.
