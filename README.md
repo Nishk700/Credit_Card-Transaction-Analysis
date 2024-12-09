@@ -1,13 +1,13 @@
 ## Credit Card Transaction and Customer Analysis Report
 
-Project Overview
+## Project Overview
 
 This project presents a comprehensive analysis of credit card transactions and customer data using Power BI. It includes insights into revenue trends, spending patterns, customer demographics, and satisfaction scores. The goal is to enable data-driven decision-making for optimizing credit card offerings and customer strategies.
 
 
-About Dataset
+## About Dataset
 
-Sales data description:
+### Sales data description:
 
 Invoice no : Invoice identification number.
 Customer id : Customer identification number.
@@ -17,7 +17,7 @@ Price : Price of each product.
 Invoice date : Date of purchase.
 Shopping mall : Shopping mall loaction.
 
-Customer data description:
+### Customer data description:
 
 Customer id : Customer identification number.
 Gender : Gender( Male/Female)
@@ -27,6 +27,7 @@ Payment method : Payment used by customer
 
 
 ### Dashboard 1: Credit Card Transaction Report
+
 
 ![Screenshot](SS.png)
 
