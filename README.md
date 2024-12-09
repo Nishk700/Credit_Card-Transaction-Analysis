@@ -38,33 +38,66 @@ Represents the total earnings from credit card transactions across various expen
 
 ![Image 1](CC%20SS/SS1.png)
 
+
 Total Transaction Amount:
 This is the aggregate sum of all transaction values ($44.5M), reflecting the total spending activity by customers using credit cards.
+
+![Image 1](CC%20SS/SS2.png)
+
 
 Interests Earned:
 Refers to the income generated from interest charges on outstanding balances ($7.8M). This indicates how much revenue comes from customers carrying balances on their credit cards.
 
+![Image 1](CC%20SS/SS3.png)
+
+
 Transaction Volume:
 The total number of individual transactions processed during the period (656K). This helps evaluate the overall activity level of the card user base.
+
+![Image 1](CC%20SS/SS4.png)
+
 
 Breakdown of Insights
 Revenue by Expenditure Type:
 
+![Image 1](CC%20SS/SS5.png)
+
+
 Customers spent the most on Bills ($14M), followed by Entertainment ($10M), Fuel and Grocery ($9M each).
 These categories show where customers prioritize their spending, influencing strategic decisions.
+
+
 Revenue by Education Level:
+
+![Image 1](CC%20SS/SS6.png)
+
 
 Graduates lead in spending ($22M), followed by High School ($11M) and Unknown education ($8M).
 This highlights the relationship between education and spending power.
+
+
 Revenue by Job:
+
+![Image 1](CC%20SS/SS7.png)
+
 
 Businesspeople contribute the highest revenue ($17M), followed by White-collar employees ($10M).
 Occupation-based revenue insights help in understanding customer demographics.
+
+
 Revenue by Card Category:
+
+![Image 1](CC%20SS/SS8.png)
+
 
 Blue cardholders dominate, accounting for $46M of the total revenue, far exceeding other categories (e.g., Silver: $6M, Gold: $2M).
 This data could guide promotional efforts for different card types.
+
+
 Revenue by Transaction Type:
+
+![Image 1](CC%20SS/SS9.png)
+
 
 Swipe transactions are the most common ($35M), followed by Chip ($17M) and Online ($3M).
 This indicates customer preferences for physical transactions over digital ones.
