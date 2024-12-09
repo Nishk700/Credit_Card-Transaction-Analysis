@@ -1,4 +1,4 @@
-Credit Card Transaction and Customer Analysis Report
+## Credit Card Transaction and Customer Analysis Report
 
 Project Overview
 
@@ -26,39 +26,40 @@ Payment method : Payment used by customer
 
 
 
-Dashboard 1: Credit Card Transaction Report
+### Dashboard 1: Credit Card Transaction Report
 
 ![Screenshot](SS.png)
 
 
-Key Metrics
+### Key Metrics
 
-Revenue:
+#### Revenue:
 Represents the total earnings from credit card transactions across various expenditure categories. The total revenue for the period is $55.3M, highlighting the financial impact of customer transactions.
 
 ![Image 1](CC%20SS/SS1.png)
 
 
-Total Transaction Amount:
+#### Total Transaction Amount:
 This is the aggregate sum of all transaction values ($44.5M), reflecting the total spending activity by customers using credit cards.
 
 ![Image 1](CC%20SS/SS2.png)
 
 
-Interests Earned:
+#### Interests Earned:
 Refers to the income generated from interest charges on outstanding balances ($7.8M). This indicates how much revenue comes from customers carrying balances on their credit cards.
 
 ![Image 1](CC%20SS/SS3.png)
 
 
-Transaction Volume:
+#### Transaction Volume:
 The total number of individual transactions processed during the period (656K). This helps evaluate the overall activity level of the card user base.
 
 ![Image 1](CC%20SS/SS4.png)
 
 
-Breakdown of Insights
-Revenue by Expenditure Type:
+#### Breakdown of Insights
+
+#### Revenue by Expenditure Type:
 
 ![Image 1](CC%20SS/SS5.png)
 
@@ -67,7 +68,7 @@ Customers spent the most on Bills ($14M), followed by Entertainment ($10M), Fuel
 These categories show where customers prioritize their spending, influencing strategic decisions.
 
 
-Revenue by Education Level:
+#### Revenue by Education Level:
 
 ![Image 1](CC%20SS/SS6.png)
 
@@ -76,7 +77,7 @@ Graduates lead in spending ($22M), followed by High School ($11M) and Unknown ed
 This highlights the relationship between education and spending power.
 
 
-Revenue by Job:
+#### Revenue by Job:
 
 ![Image 1](CC%20SS/SS7.png)
 
@@ -85,7 +86,7 @@ Businesspeople contribute the highest revenue ($17M), followed by White-collar e
 Occupation-based revenue insights help in understanding customer demographics.
 
 
-Revenue by Card Category:
+#### Revenue by Card Category:
 
 ![Image 1](CC%20SS/SS8.png)
 
@@ -94,7 +95,7 @@ Blue cardholders dominate, accounting for $46M of the total revenue, far exceedi
 This data could guide promotional efforts for different card types.
 
 
-Revenue by Transaction Type:
+#### Revenue by Transaction Type:
 
 ![Image 1](CC%20SS/SS9.png)
 
@@ -103,10 +104,19 @@ Swipe transactions are the most common ($35M), followed by Chip ($17M) and Onlin
 This indicates customer preferences for physical transactions over digital ones.
 
 
+#### Table of Card Category with Total Revenue( Excl Annual Fees), Total Transactions Amount anbd Total Interests Earned:
+
+Blue cardholders have the highest total revenue with more transactions and Interest earned.
+
+![Image 1](CC%20SS/SS10.png
+
+#### Quarterly Revenue and Total Transactions Volume over time:
+
+![Image 1](CC%20SS/SS11.png)
 
 
 
-Dashboard 2: Credit Card Customer Report
+### Dashboard 2: Credit Card Customer Report
 
 
 ![Screenshot](Customers_DB.png)
