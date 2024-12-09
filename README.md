@@ -108,7 +108,7 @@ This indicates customer preferences for physical transactions over digital ones.
 
 Blue cardholders have the highest total revenue with more transactions and Interest earned.
 
-![Image 1](CC%20SS/SS10.png
+![Image 1](CC%20SS/SS10.png)
 
 #### Quarterly Revenue and Total Transactions Volume over time:
 
@@ -120,40 +120,90 @@ Blue cardholders have the highest total revenue with more transactions and Inter
 
 
 ![Screenshot](Customers_DB.png)
-Key Metrics
-Total Customers:
+
+### Key Metrics
+
+
+#### Total Customers:
+
+![Image 1](CC%20SS/SS12.png)
+
+
 Reflects the total number of active credit card users (10.1K), showing the overall size of the customer base.
 
-Average Revenue per Customer:
+
+#### Average Revenue per Customer:
+
+![Image 1](CC%20SS/SS13.png)
+
+
 On average, each customer generates $5.5K in revenue. This metric gauges the profitability of individual customers.
 
-Average Customer Acquisition Cost:
+#### Average Customer Acquisition Cost:
+
+![Image 1](CC%20SS/SS14.png)
+
+
 Indicates the average cost ($96.3) incurred by the company to attract and onboard a new customer, providing insights into marketing efficiency.
 
-Customer Satisfaction Score:
+#### Customer Satisfaction Score:
+
+![Image 1](CC%20SS/SS15.png)
+
+
 The average satisfaction score is 3.19 out of 5, revealing room for improvement in customer experience.
 
-Breakdown of Insights
-Customers by Income Group:
+### Breakdown of Insights
+
+
+#### Customers by Income Group:
+
+![Image 1](CC%20SS/SS16.png)
+
 
 Most customers earn less than $50K, with the largest segment earning less than $25K (2.8K).
 This suggests a broad appeal of credit card offerings to lower-income groups.
-Customers by Age Group:
+
+
+#### Customers by Age Group:
+
+![Image 1](CC%20SS/SS17.png)
+
 
 The largest group is aged 40–50 (4.5K customers), followed by 50–60 (3.0K).
 The data shows a strong user base among middle-aged customers.
-Customers by Education Level:
+
+
+#### Customers by Education Level:
+
+![Image 1](CC%20SS/SS18.png)
+
 
 Graduates are the largest segment (4.1K), indicating that higher education correlates with credit card adoption and use.
-Customers by Job:
+
+
+#### Customers by Job:
+
+![Image 1](CC%20SS/SS19.png)
+
 
 Self-employed individuals (2.6K) and Businesspeople (1.9K) make up the largest customer segments.
 This points to the popularity of credit cards among entrepreneurial and professional groups.
-Customers by Expenditure Type:
+
+
+#### Customers by Expenditure Type:
+
+![Image 1](CC%20SS/SS20.png)
+
 
 Bills (3K) and Entertainment (2K) are the top spending categories.
 These categories highlight customer priorities in their financial spending.
-Customers by State:
+
+
+#### Customers by State:
+
+![Image 1](CC%20SS/SS21.png)
+
 
 California (CA: 2.5K), Texas (TX: 2.4K), and New York (NY: 2.3K) lead in customer numbers.
 These states represent key regions for business focus.
