@@ -208,12 +208,31 @@ These categories highlight customer priorities in their financial spending.
 California (CA: 2.5K), Texas (TX: 2.4K), and New York (NY: 2.3K) lead in customer numbers.
 These states represent key regions for business focus.
 
-Technical Details
+#### Customers by number of dependent
+
+![Image 1](CC%20SS/SS22.png)
+
+Customers who have three dependents are top in this lists.
+
+
+#### Number of Customers over time by Gender
+
+![Image 1](CC%20SS/SS23.png)
+
+
+#### Pie charts of Customers w.r.t Card category, Transaction ways and their Marrital Status
+
+![Image 1](CC%20SS/SS24.png)
+
+
+
+
+## Technical Details
 Tool Used: Power BI
 
-Data Sources: Simulated credit card transaction and customer datasets.
+## Data Sources: Kaggle(credit card transaction and customer datasets)
 
-Key Visualizations:
+## Key Visualizations:
 Bar charts, pie charts, and line graphs for revenue and transaction trends.
 Demographic distribution graphs for customer insights.
 
@@ -235,19 +254,18 @@ Customize and extend the analysis using Power BI's capabilities.
 
 Insights & Recommendations
 
-Key Findings
+## Key Findings
 Blue cardholders are the largest revenue contributors.
 Middle-aged, graduate, and self-employed customers are the most active segments.
 Physical swipe transactions dominate over online payments.
 
 
-Recommendations
+## Recommendations
 Focus marketing campaigns on the 40–50 age group and high-spending states (CA, TX, NY).
 Promote online and digital payment options to balance transaction modes.
 Enhance customer satisfaction scores through targeted engagement strategies.
+
 Contributing
-
-
 Contributions are welcome! Please open an issue or submit a pull request for suggestions or updates.
 
 
