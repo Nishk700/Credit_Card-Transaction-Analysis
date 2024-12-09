@@ -36,7 +36,7 @@ Key Metrics
 Revenue:
 Represents the total earnings from credit card transactions across various expenditure categories. The total revenue for the period is $55.3M, highlighting the financial impact of customer transactions.
 
-![Image 1](CC%20SSSS1.png)
+![Image 1](CC%20SS/SS1.png)
 
 Total Transaction Amount:
 This is the aggregate sum of all transaction values ($44.5M), reflecting the total spending activity by customers using credit cards.
